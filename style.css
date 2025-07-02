@@ -12,3 +12,7 @@
     justify-content: center;
     text-align: center;
 }
+
+.container h4 {
+    color: gray;
+}
