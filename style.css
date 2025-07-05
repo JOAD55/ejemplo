@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(163, 157, 214);
+    background-color: rgb(38, 32, 94);
     color: white;
     align-items: center;
     justify-content: center;
@@ -10,4 +10,9 @@
 .container {
     display: flex;
     justify-content: center;
+    text-align: center;
+}
+
+.container h4 {
+    color: gray;
 }
